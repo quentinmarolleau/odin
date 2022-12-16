@@ -1,0 +1,9 @@
+# generic
+__pycache__
+README.html
+
+# poetry
+poetry.lock
+
+# sublime tex files
+*.sublime-*
